@@ -56,7 +56,7 @@ validating the product, then scaling to more legal domains.
 
 ## How to Get Involved
 
-1. **Reach out** — DM [@Reabot6](https://twitter.com/Reabot6) on X/Twitter and tell us
+1. **Reach out** — DM [@Reabot6](linkedin.com/in/reabot6) on linkedin and tell us
    who you are and how you want to help
 2. **Open an issue** — if you have a specific idea, suggestion, or legal situation we
    should cover, open a GitHub issue
