@@ -71,7 +71,7 @@ validating the product, then scaling to more legal domains.
 - Legal accuracy matters more than speed. We won't ship something that gives people
   wrong legal information.
 - We give credit. Everyone who contributes meaningfully will be acknowledged.
-- Respect the mission. This is civic infrastructure, not a portfolio project.
+- Respect the mission. This is civic infrastructure, not just a portfolio project.
 
 ---
 
